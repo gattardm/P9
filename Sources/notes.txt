@@ -1,4 +1,18 @@
 P9
+Sem du 14 au 18/11
+Compliance-Assessment :
+	Ajout du §I.A.Principes architecturaux
+	Ajout du §I.I.Ressources disponibles
+	Ajout du §II.A.Ressources nécessaires
+	Spécification du §II.G.2.La solution clé en main
+=================================================
+14/11
+<DONE>Préconiser l'utilisation d'un COTS.</DONE>
+<DONE>Rajouter trois principes TOGAF</DONE>
+=================================================
 31/10
 Pour le 07/11
-Faire des hypothèses relatives aux ressources dispo et de celles qui sont manquantes vis à vis des documents disponibles dans le tableau de sourcing
+<DONE>
+	Faire des hypothèses relatives aux ressources dispo et de celles qui sont manquantes vis à vis des documents disponibles dans le tableau de sourcing
+<DONE>
+=================================================
