@@ -1,7 +1,10 @@
 P9
 Sem du 21 au 25/11
-SBB :	
+SBB :
+	<DONE>Ajout du §V.A.4.Théorie du MVP</DONE>
+	<DONE>Ajout du §V.A.5.Définition du Modèle, de la Vue et de la Présentation</DONE>
 	<DONE>préciser la cible de chaque paragraphe</DONE>
+
 	<INFO>une seule SBB suffira</INFO>
 	<DONE>couvrir les différents composants techniques</DONE>
 	<DONE:§VI.Spécifications des attributs partagés>
