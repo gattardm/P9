@@ -1,18 +1,23 @@
 P9
-21/11
+Sem du 21 au 25/11
 SBB :	
-	préciser la cible de chaque paragraphe
+	<DONE>préciser la cible de chaque paragraphe</DONE>
 	<INFO>une seule SBB suffira</INFO>
-	couvrir les différents composants techniques
+	<DONE>couvrir les différents composants techniques</DONE>
 	<DONE:§VI.Spécifications des attributs partagés>
 		spécifier que les attributs partagés sont des attributs applicatifs
 	</DONE>
 	<DONE>Remonter le §VIII et le modifier en §II</DONE>
 	<DONE>Créer un §IV.1 Mappage aux normes</DONE>
-	Rappeler les spécs de sécu et couvrir toutes les spécs du Compliance Assessment (sécurité, performance, maintenabilité, extensibilité...) et spécifier les niveaux à appliquer (applicatifs ou composants) -> à mettre dans le §Mappage aux normes
+	<DONE>
+		Rappeler les spécs de sécu et couvrir toutes les spécs du Compliance Assessment (sécurité, performance, maintenabilité, extensibilité...)
+	</DONE>
+	<DONE>
+		spécifier les niveaux à appliquer (applicatifs ou composants) -> à mettre dans le §Mappage aux normes
+	</DONE>
 
 Roadmap:
-	l'initier
+	<IN PROGRESS>l'initier</IN PROGRESS>
 =================================================
 Sem du 14 au 18/11
 Compliance-Assessment :
