@@ -20,7 +20,7 @@ SBB :
 	</DONE>
 
 Roadmap:
-	<IN PROGRESS>l'initier</IN PROGRESS>
+	<DONE>l'initier et finaliser</DONE>
 =================================================
 Sem du 14 au 18/11
 Compliance-Assessment :
