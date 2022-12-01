@@ -1,4 +1,6 @@
 P9
+
+=================================================
 Sem du 21 au 25/11
 SBB :
 	<DONE>Ajout du §V.A.4.Théorie du MVP</DONE>
@@ -24,10 +26,10 @@ Roadmap:
 =================================================
 Sem du 14 au 18/11
 Compliance-Assessment :
-	Ajout du §I.A.Principes architecturaux
-	Ajout du §I.I.Ressources disponibles
-	Ajout du §II.A.Ressources nécessaires
-	Spécification du §II.G.2.La solution clé en main
+	<DONE>Ajout du §I.A.Principes architecturaux</DONE>
+	<DONE>Ajout du §I.I.Ressources disponibles</DONE>
+	<DONE>Ajout du §II.A.Ressources nécessaires</DONE>
+	<DONE>Spécification du §II.G.2.La solution clé en main</DONE>
 =================================================
 14/11
 <DONE>Préconiser l'utilisation d'un COTS.</DONE>
